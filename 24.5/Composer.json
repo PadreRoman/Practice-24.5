@@ -1,0 +1,21 @@
+{
+    "name": "roman/task245",
+    "description": "Task_PHP_MVC",
+    "type": "project",
+    "require": {
+        "shadesoft/gd-image": "4.x-dev"
+    },
+    "license": "BSD",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GrGrGrRoman",
+            "email": "grroman@live.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
